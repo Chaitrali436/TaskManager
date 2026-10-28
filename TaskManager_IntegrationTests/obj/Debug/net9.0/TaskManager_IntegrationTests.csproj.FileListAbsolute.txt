@@ -226,3 +226,4 @@ C:\Users\Admin\TaskManager\TaskManager_IntegrationTests\obj\Debug\net9.0\refint\
 C:\Users\Admin\TaskManager\TaskManager_IntegrationTests\obj\Debug\net9.0\TaskManager_IntegrationTests.pdb
 C:\Users\Admin\TaskManager\TaskManager_IntegrationTests\obj\Debug\net9.0\TaskManager_IntegrationTests.genruntimeconfig.cache
 C:\Users\Admin\TaskManager\TaskManager_IntegrationTests\obj\Debug\net9.0\ref\TaskManager_IntegrationTests.dll
+C:\Users\Admin\TaskManager\TaskManager_IntegrationTests\obj\Debug\net9.0\TaskManager_IntegrationTests.sourcelink.json

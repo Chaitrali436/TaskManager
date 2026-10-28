@@ -28,3 +28,4 @@ C:\Users\Admin\TaskManager\TaskManager_Infrastructure\obj\Debug\net9.0\TaskManag
 C:\Users\Admin\TaskManager\TaskManager_Infrastructure\obj\Debug\net9.0\refint\TaskManager_InfrastructureLayer.dll
 C:\Users\Admin\TaskManager\TaskManager_Infrastructure\obj\Debug\net9.0\TaskManager_InfrastructureLayer.pdb
 C:\Users\Admin\TaskManager\TaskManager_Infrastructure\obj\Debug\net9.0\ref\TaskManager_InfrastructureLayer.dll
+C:\Users\Admin\TaskManager\TaskManager_Infrastructure\obj\Debug\net9.0\TaskManager_InfrastructureLayer.sourcelink.json
