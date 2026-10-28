@@ -1,0 +1,22 @@
+D:\New folder\Chaitrali\Programs\TaskManager_API\TaskManager_CoreLayer\bin\Debug\net9.0\TaskManager_CoreLayer.deps.json
+D:\New folder\Chaitrali\Programs\TaskManager_API\TaskManager_CoreLayer\bin\Debug\net9.0\TaskManager_CoreLayer.dll
+D:\New folder\Chaitrali\Programs\TaskManager_API\TaskManager_CoreLayer\bin\Debug\net9.0\TaskManager_CoreLayer.pdb
+D:\New folder\Chaitrali\Programs\TaskManager_API\TaskManager_CoreLayer\obj\Debug\net9.0\TaskManager_CoreLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\Chaitrali\Programs\TaskManager_API\TaskManager_CoreLayer\obj\Debug\net9.0\TaskManager_CoreLayer.AssemblyInfoInputs.cache
+D:\New folder\Chaitrali\Programs\TaskManager_API\TaskManager_CoreLayer\obj\Debug\net9.0\TaskManager_CoreLayer.AssemblyInfo.cs
+D:\New folder\Chaitrali\Programs\TaskManager_API\TaskManager_CoreLayer\obj\Debug\net9.0\TaskManager_CoreLayer.csproj.CoreCompileInputs.cache
+D:\New folder\Chaitrali\Programs\TaskManager_API\TaskManager_CoreLayer\obj\Debug\net9.0\TaskManager_CoreLayer.dll
+D:\New folder\Chaitrali\Programs\TaskManager_API\TaskManager_CoreLayer\obj\Debug\net9.0\refint\TaskManager_CoreLayer.dll
+D:\New folder\Chaitrali\Programs\TaskManager_API\TaskManager_CoreLayer\obj\Debug\net9.0\TaskManager_CoreLayer.pdb
+D:\New folder\Chaitrali\Programs\TaskManager_API\TaskManager_CoreLayer\obj\Debug\net9.0\ref\TaskManager_CoreLayer.dll
+C:\Users\Admin\TaskManager\TaskManager_CoreLayer\bin\Debug\net9.0\TaskManager_CoreLayer.deps.json
+C:\Users\Admin\TaskManager\TaskManager_CoreLayer\bin\Debug\net9.0\TaskManager_CoreLayer.dll
+C:\Users\Admin\TaskManager\TaskManager_CoreLayer\bin\Debug\net9.0\TaskManager_CoreLayer.pdb
+C:\Users\Admin\TaskManager\TaskManager_CoreLayer\obj\Debug\net9.0\TaskManager_CoreLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\TaskManager\TaskManager_CoreLayer\obj\Debug\net9.0\TaskManager_CoreLayer.AssemblyInfoInputs.cache
+C:\Users\Admin\TaskManager\TaskManager_CoreLayer\obj\Debug\net9.0\TaskManager_CoreLayer.AssemblyInfo.cs
+C:\Users\Admin\TaskManager\TaskManager_CoreLayer\obj\Debug\net9.0\TaskManager_CoreLayer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\TaskManager\TaskManager_CoreLayer\obj\Debug\net9.0\TaskManager_CoreLayer.dll
+C:\Users\Admin\TaskManager\TaskManager_CoreLayer\obj\Debug\net9.0\refint\TaskManager_CoreLayer.dll
+C:\Users\Admin\TaskManager\TaskManager_CoreLayer\obj\Debug\net9.0\TaskManager_CoreLayer.pdb
+C:\Users\Admin\TaskManager\TaskManager_CoreLayer\obj\Debug\net9.0\ref\TaskManager_CoreLayer.dll
