@@ -1,0 +1,46 @@
+# Visual Studio cache and user files
+.vs/
+*.user
+*.suo
+*.userprefs
+
+# Build output
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+publish/
+
+# Test results and coverage
+TestResults/
+[Cc]overage/
+*.coverage
+*.coveragexml
+coverage*.json
+coverage*.xml
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+
+# Rider and VS Code
+.idea/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Logs
+*.log
+
+# Secrets and local settings (never commit these)
+.env
+*.pfx
+*.publishsettings
+appsettings.Local.json
+secrets.json
+
+# OS files
+.DS_Store
+Thumbs.dbs

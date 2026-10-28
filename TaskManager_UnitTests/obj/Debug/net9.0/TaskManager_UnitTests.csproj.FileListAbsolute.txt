@@ -202,3 +202,4 @@ C:\Users\Admin\TaskManager\TaskManager_UnitTests\obj\Debug\net9.0\refint\TaskMan
 C:\Users\Admin\TaskManager\TaskManager_UnitTests\obj\Debug\net9.0\TaskManager_UnitTests.pdb
 C:\Users\Admin\TaskManager\TaskManager_UnitTests\obj\Debug\net9.0\TaskManager_UnitTests.genruntimeconfig.cache
 C:\Users\Admin\TaskManager\TaskManager_UnitTests\obj\Debug\net9.0\ref\TaskManager_UnitTests.dll
+C:\Users\Admin\TaskManager\TaskManager_UnitTests\obj\Debug\net9.0\TaskManager_UnitTests.sourcelink.json

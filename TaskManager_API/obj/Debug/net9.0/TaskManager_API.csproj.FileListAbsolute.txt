@@ -72,3 +72,4 @@ C:\Users\Admin\TaskManager\TaskManager_API\obj\Debug\net9.0\refint\TaskManager_A
 C:\Users\Admin\TaskManager\TaskManager_API\obj\Debug\net9.0\TaskManager_API.pdb
 C:\Users\Admin\TaskManager\TaskManager_API\obj\Debug\net9.0\TaskManager_API.genruntimeconfig.cache
 C:\Users\Admin\TaskManager\TaskManager_API\obj\Debug\net9.0\ref\TaskManager_API.dll
+C:\Users\Admin\TaskManager\TaskManager_API\obj\Debug\net9.0\TaskManager_API.sourcelink.json

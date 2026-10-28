@@ -20,3 +20,4 @@ C:\Users\Admin\TaskManager\TaskManager_CoreLayer\obj\Debug\net9.0\TaskManager_Co
 C:\Users\Admin\TaskManager\TaskManager_CoreLayer\obj\Debug\net9.0\refint\TaskManager_CoreLayer.dll
 C:\Users\Admin\TaskManager\TaskManager_CoreLayer\obj\Debug\net9.0\TaskManager_CoreLayer.pdb
 C:\Users\Admin\TaskManager\TaskManager_CoreLayer\obj\Debug\net9.0\ref\TaskManager_CoreLayer.dll
+C:\Users\Admin\TaskManager\TaskManager_CoreLayer\obj\Debug\net9.0\TaskManager_CoreLayer.sourcelink.json
