@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "TaskManager_CoreLayer\\Entities\\TaskItem.cs",
               "ToolTip": "C:\\Users\\Admin\\TaskManager\\TaskManager_CoreLayer\\Entities\\TaskItem.cs",
               "RelativeToolTip": "TaskManager_CoreLayer\\Entities\\TaskItem.cs",
-              "ViewState": "AgIAACoAAACAR2ZmZmYawDsAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAADQ7f////8rwD8AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-29T07:03:05.58Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "TaskManager_CoreLayer\\Entities\\TaskItemStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-29T07:03:01.811Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-29T07:03:01.811Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "TaskManager_UnitTests\\Entities\\ProjectTests.cs",
               "ViewState": "AgIAAA0AAADAlpmZmdkpwBIAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-29T06:42:58.46Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-29T06:42:58.46Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "TaskManager_UnitTests\\Entities\\Taskitemtests.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAABgvUEAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-29T06:18:43.373Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-29T06:18:43.373Z"
             }
           ]
         }

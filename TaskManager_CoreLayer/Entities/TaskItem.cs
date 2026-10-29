@@ -61,7 +61,7 @@ namespace TaskManager_CoreLayer.Entities
                 throw new ArgumentException("Invalid status.", nameof(newStatus));
             }
 
-            if (newStatus <= Status)
+            if (newStatus < Status)
             {
                 throw new DomainException(
                     $"Status can only move forward. Current status is {Status}.");
