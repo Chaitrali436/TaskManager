@@ -1,12 +1,88 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Admin\\TaskManager\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8113B35F-A985-4817-942D-B8AE713C8B9C}|TaskManager_CoreLayer\\TaskManager_CoreLayer.csproj|c:\\users\\admin\\taskmanager\\taskmanager_corelayer\\entities\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8113B35F-A985-4817-942D-B8AE713C8B9C}|TaskManager_CoreLayer\\TaskManager_CoreLayer.csproj|solutionrelative:taskmanager_corelayer\\entities\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8113B35F-A985-4817-942D-B8AE713C8B9C}|TaskManager_CoreLayer\\TaskManager_CoreLayer.csproj|c:\\users\\admin\\taskmanager\\taskmanager_corelayer\\entities\\taskitemstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8113B35F-A985-4817-942D-B8AE713C8B9C}|TaskManager_CoreLayer\\TaskManager_CoreLayer.csproj|solutionrelative:taskmanager_corelayer\\entities\\taskitemstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{735704A9-185A-4EC7-A611-DDFDBAC928F6}|TaskManager_UnitTests\\TaskManager_UnitTests.csproj|c:\\users\\admin\\taskmanager\\taskmanager_unittests\\entities\\projecttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{735704A9-185A-4EC7-A611-DDFDBAC928F6}|TaskManager_UnitTests\\TaskManager_UnitTests.csproj|solutionrelative:taskmanager_unittests\\entities\\projecttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{735704A9-185A-4EC7-A611-DDFDBAC928F6}|TaskManager_UnitTests\\TaskManager_UnitTests.csproj|c:\\users\\admin\\taskmanager\\taskmanager_unittests\\entities\\taskitemtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{735704A9-185A-4EC7-A611-DDFDBAC928F6}|TaskManager_UnitTests\\TaskManager_UnitTests.csproj|solutionrelative:taskmanager_unittests\\entities\\taskitemtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\TaskManager\\TaskManager_CoreLayer\\Entities\\TaskItem.cs",
+              "RelativeDocumentMoniker": "TaskManager_CoreLayer\\Entities\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\Admin\\TaskManager\\TaskManager_CoreLayer\\Entities\\TaskItem.cs",
+              "RelativeToolTip": "TaskManager_CoreLayer\\Entities\\TaskItem.cs",
+              "ViewState": "AgIAACoAAACAR2ZmZmYawDsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T07:03:05.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskItemStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\TaskManager\\TaskManager_CoreLayer\\Entities\\TaskItemStatus.cs",
+              "RelativeDocumentMoniker": "TaskManager_CoreLayer\\Entities\\TaskItemStatus.cs",
+              "ToolTip": "C:\\Users\\Admin\\TaskManager\\TaskManager_CoreLayer\\Entities\\TaskItemStatus.cs",
+              "RelativeToolTip": "TaskManager_CoreLayer\\Entities\\TaskItemStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T07:03:01.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjectTests.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\TaskManager\\TaskManager_UnitTests\\Entities\\ProjectTests.cs",
+              "RelativeDocumentMoniker": "TaskManager_UnitTests\\Entities\\ProjectTests.cs",
+              "ToolTip": "C:\\Users\\Admin\\TaskManager\\TaskManager_UnitTests\\Entities\\ProjectTests.cs",
+              "RelativeToolTip": "TaskManager_UnitTests\\Entities\\ProjectTests.cs",
+              "ViewState": "AgIAAA0AAADAlpmZmdkpwBIAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T06:42:58.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Taskitemtests.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\TaskManager\\TaskManager_UnitTests\\Entities\\Taskitemtests.cs",
+              "RelativeDocumentMoniker": "TaskManager_UnitTests\\Entities\\Taskitemtests.cs",
+              "ToolTip": "C:\\Users\\Admin\\TaskManager\\TaskManager_UnitTests\\Entities\\Taskitemtests.cs",
+              "RelativeToolTip": "TaskManager_UnitTests\\Entities\\Taskitemtests.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAABgvUEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T06:18:43.373Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
