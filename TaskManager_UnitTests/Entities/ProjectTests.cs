@@ -17,7 +17,6 @@ namespace TaskManager_UnitTests.Entities
         public void NewProject_SetsNameAndCreatedAt()
         {
             var project = new Project("  Learn CI/CD  ", Now, "My description");
-
             Assert.Equal("Learn CI/CD", project.Name);
             Assert.Equal("My description", project.Description);
             Assert.Equal(Now, project.CreatedAt);
