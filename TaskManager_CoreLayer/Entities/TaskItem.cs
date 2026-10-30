@@ -9,7 +9,9 @@ namespace TaskManager_CoreLayer.Entities
 {
     public class TaskItem
     {
-        public const int MaxTitleLength = 150;
+
+        public const int MaxTitleLength = 250;
+
 
         public int Id { get; private set; }
         public int ProjectId { get; private set; }
